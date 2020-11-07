@@ -2,7 +2,9 @@
 # Computer Graphics Homework 03
 ***
 **Author:** Aneta Baloyan
+
 **Email:** _aneta_baloyan@edu.aua.am_
+
 **University:** _American University of Armenia_
 ***
 In this project I am drawing a cylinder object, using OpenGL and C++. The cylinder is illuminated by the Phong illumination model, meaning using an ambient + diffuse + specular light. the viewer can rotate the object using their mouse. There are two view options: "game view" and "rotation view". In the "game view" one can also move in the space using WASD keys. To switch to game view, just press G, to switch back to rotation view, press R. 
